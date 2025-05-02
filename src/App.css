@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Hanken Grotesk", "sans-serif";
+  --font-size: 18px;
+
+  --color-red: hsl(0, 100%, 67%);
+  --color-yellow: hsl(39, 100%, 56%);
+  --color-teal: hsl(166, 100%, 37%);
+  --color-blue: hsl(234, 85%, 45%);
+  --color-slateBlue: hsl(252, 100%, 67%);
+  --color-royalBlue: hsl(241, 81%, 54%);
+  --color-violetBlue: hsla(256, 72%, 46%, 1);
+  --color-persianBlue: hsla(241, 72%, 46%, 0);
+  --color-white: hsl(0, 0%, 100%);
+  --color-paleBlue: hsl(221, 100%, 96%);
+  --color-lavender: hsl(241, 100%, 89%);
+  --color-darkGrayBlue: hsl(224, 30%, 27%);
+  --color-gradeBlue: hsla(288, 72%, 46%, 0);
+  /* ... */
+}
